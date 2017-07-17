@@ -1,0 +1,1 @@
+test <- "Bu bir deneme metnidir."
